@@ -1,2 +1,5 @@
 # study
-study language and others...
+
+## sails.js
+- https://github.com/uncaose/study/tree/master/nodejs/sailsjs
+- https://sailsjs.com
